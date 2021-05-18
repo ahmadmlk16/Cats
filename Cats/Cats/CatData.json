@@ -1,0 +1,222 @@
+[
+    {
+    "id": "beng",
+    "name": "Bengal",
+    "vetstreet_url": "http://www.vetstreet.com/cats/bengal",
+    "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+    "origin": "United States",
+    "description": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
+    "life_span": "12 - 15",
+    "weight": "6 - 12",
+    "url": "https://cdn2.thecatapi.com/images/GAmy2bg8G.jpg"
+    },
+    {
+    "id": "mcoo",
+    "name": "Maine Coon",
+    "vetstreet_url": "http://www.vetstreet.com/cats/maine-coon",
+    "temperament": "Adaptable, Intelligent, Loving, Gentle, Independent",
+    "origin": "United States",
+    "description": "They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.",
+    "life_span": "12 - 15",
+    "weight": "12 - 18",
+    "url": "https://cdn2.thecatapi.com/images/LIQSvUemz.jpg"
+    },
+    {
+    "id": "tang",
+    "name": "Turkish Angora",
+    "vetstreet_url": "http://www.vetstreet.com/cats/turkish-angora",
+    "temperament": "Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social",
+    "origin": "Turkey",
+    "description": "This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to.",
+    "life_span": "15 - 18",
+    "weight": "5 - 10",
+    "url": "https://cdn2.thecatapi.com/images/GlwgzUMan.jpg"
+    },
+    {
+    "id": "sibe",
+    "name": "Siberian",
+    "vetstreet_url": "http://www.vetstreet.com/cats/siberian",
+    "temperament": "Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate",
+    "origin": "Russia",
+    "description": "The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors.",
+    "life_span": "12 - 15",
+    "weight": "8 - 16",
+    "url": "https://cdn2.thecatapi.com/images/gZiG70w_u.jpg"
+    },
+    {
+    "id": "pers",
+    "name": "Persian",
+    "vetstreet_url": "http://www.vetstreet.com/cats/persian",
+    "temperament": "Affectionate, loyal, Sedate, Quiet",
+    "origin": "Iran (Persia)",
+    "description": "Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.",
+    "life_span": "14 - 15",
+    "weight": "9 - 14",
+    "url": "https://cdn2.thecatapi.com/images/3Pem6K30P.jpg"
+    },
+    {
+    "id": "rblu",
+    "name": "Russian Blue",
+    "vetstreet_url": "http://www.vetstreet.com/cats/russian-blue-nebelung",
+    "temperament": "Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet",
+    "origin": "Russia",
+    "description": "Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.",
+    "life_span": "10 - 16",
+    "weight": "5 - 11",
+    "url": "https://cdn2.thecatapi.com/images/dK0max215.jpg"
+    },
+    {
+    "id": "soma",
+    "name": "Somali",
+    "vetstreet_url": "http://www.vetstreet.com/cats/somali",
+    "temperament": "Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal",
+    "origin": "Somalia",
+    "description": "The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.",
+    "life_span": "12 - 16",
+    "weight": "6 - 12",
+    "url": "https://cdn2.thecatapi.com/images/0lKfGvesZ.jpg"
+    },
+    {
+    "id": "siam",
+    "name": "Siamese",
+    "vetstreet_url": "http://www.vetstreet.com/cats/siamese",
+    "temperament": "Active, Agile, Clever, Sociable, Loving, Energetic",
+    "origin": "Thailand",
+    "description": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.",
+    "life_span": "12 - 15",
+    "weight": "8 - 15",
+    "url": "https://cdn2.thecatapi.com/images/Kf-zJDHCx.jpg"
+    },
+    {
+    "id": "amau",
+    "name": "Arabian Mau",
+    "vetstreet_url": "",
+    "temperament": "Affectionate, Agile, Curious, Independent, Playful, Loyal",
+    "origin": "United Arab Emirates",
+    "description": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
+    "life_span": "12 - 14",
+    "weight": "8 - 16",
+    "url": "https://cdn2.thecatapi.com/images/mnD88Lsjd.jpg"
+    },
+    {
+    "id": "bomb",
+    "name": "Bombay",
+    "vetstreet_url": "http://www.vetstreet.com/cats/bombay",
+    "temperament": "Affectionate, Dependent, Gentle, Intelligent, Playful",
+    "origin": "United States",
+    "description": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
+    "life_span": "12 - 16",
+    "weight": "6 - 11",
+    "url": "https://cdn2.thecatapi.com/images/5iYq9NmT1.jpg"
+    },
+    {
+    "id": "bslo",
+    "name": "British Longhair",
+    "vetstreet_url": "",
+    "temperament": "Affectionate, Easy Going, Independent, Intelligent, Loyal, Social",
+    "origin": "United Kingdom",
+    "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
+    "life_span": "12 - 14",
+    "weight": "8 - 18",
+    "url": "https://cdn2.thecatapi.com/images/re7uO34hz.jpg"
+    },
+    {
+    "id": "cypr",
+    "name": "Cyprus",
+    "vetstreet_url": "",
+    "temperament": "Affectionate, Social",
+    "origin": "Cyprus",
+    "description": "Loving, loyal, social and inquisitive, the Cyprus cat forms strong ties with their families and love nothing more than to be involved in everything that goes on in their surroundings. They are not overly active by nature which makes them the perfect companion for people who would like to share their homes with a laid-back relaxed feline companion.",
+    "life_span": "12 - 15",
+    "weight": "8 - 16",
+    "url": "https://cdn2.thecatapi.com/images/_PEqOH17A.jpg"
+    },
+    {
+    "id": "mala",
+    "name": "Malayan",
+    "vetstreet_url": "",
+    "temperament": "Affectionate, Interactive, Playful, Social",
+    "origin": "United Kingdom",
+    "description": "Malayans love to explore and even enjoy traveling by way of a cat carrier. They are quite a talkative and rather loud cat with an apparent strong will. These cats will make sure that you give it the attention it seeks and always seem to want to be held and hugged. They will constantly interact with people, even strangers. They love to play and cuddle.",
+    "life_span": "12 - 18",
+    "weight": "6 - 13",
+    "url": "https://cdn2.thecatapi.com/images/BlljzFw-W.jpg"
+    },
+    {
+    "id": "sing",
+    "name": "Singapura",
+    "vetstreet_url": "http://www.vetstreet.com/cats/singapura",
+    "temperament": "Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal",
+    "origin": "Singapore",
+    "description": "The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge",
+    "life_span": "12 - 15",
+    "weight": "5 - 8",
+    "url": "https://cdn2.thecatapi.com/images/VGzO6r82_.jpg"
+    },
+    {
+    "id": "hima",
+    "name": "Himalayan",
+    "vetstreet_url": "http://www.vetstreet.com/cats/himalayan",
+    "temperament": "Dependent, Gentle, Intelligent, Quiet, Social",
+    "origin": "United States",
+    "description": "Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.",
+    "life_span": "9 - 15",
+    "weight": "7 - 14",
+    "url": "https://cdn2.thecatapi.com/images/KBjPMWOsK.jpg"
+    },
+    {
+    "id": "bure",
+    "name": "Burmese",
+    "vetstreet_url": "http://www.vetstreet.com/cats/burmese",
+    "temperament": "Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively",
+    "origin": "Burma",
+    "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
+    "life_span": "15 - 16",
+    "weight": "6 - 12",
+    "url": "https://cdn2.thecatapi.com/images/4lXnnfxac.jpg"
+    },
+    {
+    "id": "abob",
+    "name": "American Bobtail",
+    "vetstreet_url": "http://www.vetstreet.com/cats/american-bobtail",
+    "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive",
+    "origin": "United States",
+    "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+    "life_span": "11 - 15",
+    "weight": "7 - 16",
+    "url": "https://cdn2.thecatapi.com/images/d55E_KMKZ.jpg"
+    },
+    {
+    "id": "amis",
+    "name": "Australian Mist",
+    "vetstreet_url": "",
+    "temperament": "Lively, Social, Fun-loving, Relaxed, Affectionate",
+    "origin": "Australia",
+    "description": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
+    "life_span": "12 - 16",
+    "weight": "7 - 15",
+    "url": "https://cdn2.thecatapi.com/images/_6x-3TiCA.jpg"
+    },
+    {
+    "id": "orie",
+    "name": "Oriental",
+    "vetstreet_url": "http://www.vetstreet.com/cats/oriental",
+    "temperament": "Energetic, Affectionate, Intelligent, Social, Playful, Curious",
+    "origin": "United States",
+    "description": "Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.",
+    "life_span": "12 - 14",
+    "weight": "5 - 10",
+    "url": "https://cdn2.thecatapi.com/images/CQGI7O47l.jpg"
+    },
+    {
+    "id": "jbob",
+    "name": "Japanese Bobtail",
+    "vetstreet_url": "http://www.vetstreet.com/cats/japanese-bobtail",
+    "temperament": "Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social",
+    "origin": "Japan",
+    "description": "The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.",
+    "life_span": "14 - 16",
+    "weight": "5 - 10",
+    "url": "https://cdn2.thecatapi.com/images/RfdGhgEf3.jpg"
+    }
+]
